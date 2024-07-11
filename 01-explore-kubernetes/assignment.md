@@ -53,4 +53,4 @@ Open the second tab (next to the terminal) with the Kubernetes Dashboard. To log
 
 🏁 Finish the track
 ===================
-Press **Check** to finish the track.
+Press **Check** to finish the track. non conflict
