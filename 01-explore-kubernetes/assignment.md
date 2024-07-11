@@ -11,6 +11,8 @@ notes:
     and two worker nodes.
 
     Please wait while we provision the sandbox.
+- type: video
+  url: https://www.youtube.com/watch?v=PziYflu8cB8
 tabs:
 - id: amodxskhdrkt
   title: Server
