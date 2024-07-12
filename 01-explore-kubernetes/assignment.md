@@ -2,7 +2,7 @@
 slug: explore-kubernetes
 id: bco9xxazpot3
 type: challenge
-title: Explore Kubernetes Demo v2asdsadsadsd23121334
+title: Explore Kubernetes Demo
 teaser: Explore Kubernetes
 notes:
 - type: text
