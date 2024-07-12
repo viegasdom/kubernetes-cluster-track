@@ -2,7 +2,7 @@
 slug: explore-kubernetes
 id: bco9xxazpot3
 type: challenge
-title: Explore Kubernetes
+title: Explore Kubernetes Demo v2asdsadsadasd
 teaser: Explore Kubernetes
 notes:
 - type: text
@@ -25,7 +25,7 @@ tabs:
   hostname: server
   path: /api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/
   port: 8001
-difficulty: basic
+difficulty: ""
 timelimit: 500
 lab_config:
   default_layout_sidebar_size: 0

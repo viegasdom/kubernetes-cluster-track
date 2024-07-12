@@ -9,4 +9,4 @@ echo "Interesting echo to debug my setup script"
 echo "This is your token. Use it to log in to the Kubernetes dashboard in the second tab ^"
 EOF
 chmod +x token.sh
-
+echo "finished setup"
