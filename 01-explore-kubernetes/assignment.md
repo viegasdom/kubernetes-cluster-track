@@ -18,7 +18,6 @@ tabs:
   title: Server
   type: terminal
   hostname: server
-  path: '?'
 - id: snolbyc9vaa4
   title: Kubernetes Dashboard
   type: service
