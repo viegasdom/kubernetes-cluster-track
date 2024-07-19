@@ -1,7 +1,7 @@
 slug: kubernetes-cluster-vc
 id: vt456yh4awcm
 revision: 1
-title: Multi-node Kubernetes cluster
+title: Multi-node Kubernetes cluster Demo
 teaser: Setup a Kubernetes cluster on multiple sandbox hosts
 description: |-
   Setup a Kubernetes cluster on multiple sandbox hosts. You need multiple
